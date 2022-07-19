@@ -24,5 +24,5 @@ Side note: due to errors in setting up the initial repository and git access, a 
 
 Here, you will find a link to the Deployed Application: https://ejackson1228.github.io/fuzzy-broccoli/
 
-<img src=fuzzy-broccoli/Screenshot1-2.png alt="top 1/2 of site">
-<img src=fuzzy-broccoli/Screenshot2-2.png alt="bottom 1/2 of site">
+<img src=fuzzy-broccoli/Screenshot1-2 alt="top 1/2 of site">
+<img src=fuzzy-broccoli/Screenshot2-2 alt="bottom 1/2 of site">
