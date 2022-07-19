@@ -23,3 +23,6 @@ Description:
 Side note: due to errors in setting up the initial repository and git access, a new repository was created after changes to the HTML and styling sheet had already been made. Therefore, there are multiple commits that will not show up in the correct repository. 
 
 Here, you will find a link to the Deployed Application: https://ejackson1228.github.io/fuzzy-broccoli/
+
+<img src=./Screenshot1-2 alt="top 1/2 of site">
+<img src=./Screenshot2-2 alt="bottom 1/2 of site">
